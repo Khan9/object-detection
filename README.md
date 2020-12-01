@@ -6,9 +6,9 @@
 
 	
 	- To run other video, copy the video in the same directory where yolo_video.py located 
-	  and change video_path fieled with that video name in yolo.py file on line 173.
+	  and change video_path field with that video name in yolo.py file on line 173.
 
-  - run yolo_video.py
+ 	- run yolo_video.py
 
 press Q to quit
 
