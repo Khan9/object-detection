@@ -3,6 +3,8 @@
 ################################## Testing ###################################
 
 
+	- Download yolo_weights.h5 file from this link : https://drive.google.com/drive/folders/1UizsR9IZCjUOiXLh-XZAyKgaWcXdd-oU?usp=sharing 
+		and keep that file in model_data directory
 
 	
 	- To run other video, copy the video in the same directory where yolo_video.py located 
@@ -11,6 +13,11 @@
  	- run yolo_video.py
 
 press Q to quit
+
+ P.S: 	- If you want to run the classifier using custom trained dataset (6 classes trained with 674 samples) , then download the custom_dataset_weights.h5 file from this link
+		https://drive.google.com/drive/folders/1UizsR9IZCjUOiXLh-XZAyKgaWcXdd-oU?usp=sharing 
+	 keep that file in model_data directory 	
+	 AND uncomment the line 21 and comment line 20 of yolo.py file 
 
 
 
